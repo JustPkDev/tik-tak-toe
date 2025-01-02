@@ -1,4 +1,4 @@
-Wants To Play: <a href="https://justpkdev.github.io/tik-tak-toe/" >Tik Tak Toe</a>
+Wants To Play: <a href="https://justpkdev.github.io/tik-tak-toe/" target="_blank" >Tik Tak Toe</a>
 
 <img src="./1.PNG">
 
